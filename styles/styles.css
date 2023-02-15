@@ -1,0 +1,11 @@
+.not-caught {
+    position: absolute; 
+    top: 10px;
+}
+
+img { 
+    transition: transform 0.2s;
+}
+img:hover { 
+    transform: scale(0.95); 
+}
