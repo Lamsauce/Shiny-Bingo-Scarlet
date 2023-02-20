@@ -1,3 +1,7 @@
+* {
+
+}
+
 .not-caught {
     position: absolute; 
     top: 10px;
@@ -8,4 +12,23 @@ img {
 }
 img:hover { 
     transform: scale(0.95); 
+}
+
+.low-page{
+    position: absolute;
+    bottom: 100px;
+    margin-left: 20px;
+}
+
+button {
+    font-size: 50px;
+}
+
+span {
+    margin-left: 50px;
+    font-size: 100px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: .4rem;
 }
